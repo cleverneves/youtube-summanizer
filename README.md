@@ -18,9 +18,7 @@ Primeiro é extraída a descrição de um video para em seguida fazer o resumo d
 
 ## Créditos:
 
-- Documentação da API da OpenAI ( https://platform.openai.com )
-
-- Video utilizado: ["Quem foi Aristóteles e como desenvolveu uma fórmula filosófica para viver bem? - Canal Casa do Saber"](https://youtu.be/YW6rp2Gu99c?si=O8AT3Hi7QcB2hFlL)
+- Video utilizado: 🎬 ["Quem foi Aristóteles e como desenvolveu uma fórmula filosófica para viver bem? - Canal Casa do Saber"](https://youtu.be/YW6rp2Gu99c?si=O8AT3Hi7QcB2hFlL)
 </p>
 
 
