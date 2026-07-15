@@ -1,4 +1,5 @@
 from openai import OpenAI
+from openai import AuthenticationError, RateLimitError, APIConnectionError
 
 client = OpenAI()
 
